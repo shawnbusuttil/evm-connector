@@ -29,10 +29,3 @@ export const EthereumProvider = ({ children }: { children: React.ReactNode }) =>
         </WagmiProvider>
     );
 }
-
-
-
-
-
-
-

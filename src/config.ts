@@ -17,7 +17,3 @@ export const getConfig = (chainId: number) => {
 
     return new Alchemy(config);
 };
-
-
-
-

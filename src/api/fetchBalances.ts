@@ -47,4 +47,3 @@ export const fetchBalances = async (address: `0x${string}`, chainId: number): Pr
         throw new Error("Error fetching balances.");
     }
 }
-
